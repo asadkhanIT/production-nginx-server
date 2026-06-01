@@ -1,9 +1,13 @@
 # Architecture
 
-Internet
-    ↓
-Firewall
-    ↓
-Nginx Reverse Proxy
-    ↓
-Backend Application
+User Browser
+      │
+      ▼
+Nginx Server
+      │
+      ├── Static Website
+      │
+      └── Reverse Proxy
+             │
+             ▼
+         Node.js Application
