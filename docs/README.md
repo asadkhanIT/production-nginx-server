@@ -74,7 +74,7 @@ production-ready-nginx-server/
 
 ### Nginx Configuration
 
-![Nginx Configuration](./screenshots/config.PNG)
+![Nginx Configuration](./screenshots/config.png)
 
 Configured:
 - Virtual Hosts
@@ -83,7 +83,7 @@ Configured:
 
 ### Website Hosting
 
-![Website Hosting](./screenshots/site1.PNG)
+![Website Hosting](./screenshots/site1.png)
 
 Successfully hosted a website using Nginx.
 
