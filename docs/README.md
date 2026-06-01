@@ -68,3 +68,27 @@ production-ready-nginx-server/
 * Networking Fundamentals
 * System Troubleshooting
 
+
+
+## Screenshots
+
+### Nginx Configuration
+
+![Nginx Config](screenshots/config.PNG)
+
+Configured:
+- Virtual Hosts
+- Reverse Proxy
+- SSL/TLS
+
+### Website Hosting
+
+![Website](screenshots/site1.PNG)
+
+Successfully hosted a website using Nginx.
+
+### Reverse Proxy
+
+![Reverse Proxy](screenshots/reverse-proxy.jpg)
+
+Configured Nginx reverse proxy forwarding requests to a Node.js application.
