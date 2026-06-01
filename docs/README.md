@@ -70,16 +70,3 @@ production-ready-nginx-server/
 
 
 
-## Screenshots
-
-### Nginx Configuration
-
-![Nginx Configuration](./screenshots/config.png)
-
-### Website Hosting
-
-![Website Hosting](./screenshots/site1.png)
-
-### Reverse Proxy
-
-![Reverse Proxy](./screenshots/reverse-proxy.jpg)
