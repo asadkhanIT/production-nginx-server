@@ -68,30 +68,3 @@ production-ready-nginx-server/
 * Networking Fundamentals
 * System Troubleshooting
 
-## Screenshots
-
-### Nginx Configuration
-
-![Nginx Config](screenshots/config.PNG)
-
-Configured:
-
-* Virtual Hosts
-* Reverse Proxy
-* SSL/TLS
-
-### Website Hosting
-
-![Website](screenshots/site1.PNG)
-
-Successfully hosted a static website using Nginx.
-
-### Reverse Proxy
-
-![Reverse Proxy](screenshots/reverse-proxy.jpg)
-
-Successfully routed requests from Nginx to a backend Node.js application.
-
-## Outcome
-
-Successfully built and tested a production-style Nginx environment capable of hosting websites, securing traffic with SSL/TLS, and forwarding application requests through a reverse proxy architecture.
