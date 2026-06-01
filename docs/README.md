@@ -1,33 +1,22 @@
-# Production Nginx Server
+## Screenshots
 
-## Overview
+### Nginx Configuration
 
-Production-style Nginx deployment on CentOS VM.
+![Nginx Config](screenshots/config.png)
 
-## Features
-
+Configured:
+- Virtual Hosts
 - Reverse Proxy
 - SSL/TLS
-- Virtual Hosts
-- Firewall Configuration
-- Monitoring Scripts
-- SSH Hardening
-- Fail2Ban Protection
 
-## Architecture
+### Website Hosting
 
-(insert diagram)
+![Website](screenshots/site1.png)
 
-## Folder Structure
+Successfully hosted a website using Nginx.
 
-(insert tree)
+### Reverse Proxy
 
-## Skills Demonstrated
+![Reverse Proxy](screenshots/reverse-proxy.jpg)
 
-- Linux Administration
-- Nginx
-- Networking
-- Security Hardening
-- Monitoring
-- SSL Management
-- Firewall Management
+Configured Nginx reverse proxy forwarding requests to a Node.js application.
