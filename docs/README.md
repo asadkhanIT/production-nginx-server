@@ -72,7 +72,7 @@ production-ready-nginx-server/
 
 ### Nginx Configuration
 
-![Nginx Config](screenshots/config.png)
+![Nginx Config](screenshots/config.PNG)
 
 Configured:
 
@@ -82,13 +82,13 @@ Configured:
 
 ### Website Hosting
 
-![Website](screenshots/site1.png)
+![Website](screenshots/site1.PNG)
 
 Successfully hosted a static website using Nginx.
 
 ### Reverse Proxy
 
-![Reverse Proxy](screenshots/reverse-proxy.jpg)
+![Reverse Proxy](screenshots/reverse-proxy.PNG)
 
 Successfully routed requests from Nginx to a backend Node.js application.
 
