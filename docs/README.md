@@ -88,7 +88,7 @@ Successfully hosted a static website using Nginx.
 
 ### Reverse Proxy
 
-![Reverse Proxy](screenshots/reverse proxy.jpg)
+![Reverse Proxy](screenshots/reverse-proxy.jpg)
 
 Successfully routed requests from Nginx to a backend Node.js application.
 
